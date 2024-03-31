@@ -1,0 +1,5 @@
+1.Platform: iOS
+2.Framework: Swift
+3.Want to explore cross-platform development? Maybe
+4.Exploring a cross-platform development would allow to reuse code to let users of different platforms to use the app. For instance, in the case of game development, the selection of cross-platform ensures the game to reach a wider audience regardless of their device or operating system.
+On the other hand, I would like my first app to be an iOS app.
